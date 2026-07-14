@@ -1,1 +1,1 @@
-# GeoVecFont-Bridging-Geometric-Topology-and-Semantic-Consistency-for-Few-shot-Vector-Font-Generation
+# GeoVecFont-Bridging-Geometric
