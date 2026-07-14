@@ -1,1 +1,1 @@
-# GeoVecFont-Bridging-Geometric
+# GeoVecFont
